@@ -1,6 +1,6 @@
 # Data Science 101 
 ## Katie Malone, Civis Analytics
-## Open Data Science Conference, San Francisco 2017 
+## Open Data Science Conference, Boston 2018 
 
 ### [Link to accompanying slides](https://www.dropbox.com/s/qb9jh1adaei7o9i/DataScience101.pdf?dl=0)
 
